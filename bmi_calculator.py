@@ -20,4 +20,7 @@ elif 29.9 < body_mass_index:
     result = "obesity"
 
 if st.button("calculate"):
-    st.success(result)
+    if result == "normal weight":
+        st.success(result)
+    else:
+        st.error(result)
