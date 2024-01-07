@@ -50,7 +50,3 @@ Contributions are welcome! Here's how you can contribute:
 - Make modifications and commit changes (`git commit -am 'Add new feature'`).
 - Push to the branch (`git push origin feature/new-feature`).
 - Create a new Pull Request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
